@@ -67,6 +67,8 @@ The resulting arrays of survival probability (dependent variable) and neutrino p
 
 ### Python file 20190716ZhouNoSympySymHamiltCODEonlyZexactOurSolar.py
 
+See the **article** [Approach of eigenvalues in medium](https://github.com/AncientZygote/neutrinos/blob/master/20200527LZeigPath.pdf) for discussion of the relevant physics and the computer code provided.
+
 See the **article** [Solar Neutrino Survival Probability Scan](https://github.com/AncientZygote/neutrinos/blob/master/20200508MSWallScan.pdf) for an incidental discussion of **level-jump probability** and hyperlink citations where available to physics papers and texts used, as well as some of our related work.
 
 #### description and sample output
@@ -75,7 +77,7 @@ The Python script: [20190716ZhouNoSympySymHamiltCODEonlyZexactOurSolar.py](https
 ![eigenstates vs E](/20190716ZhouNoSymimg.png)
 
 #### discussion
-In the graph, the production electron density was held constant and the values that the neutrino mass eigenstates would have a different production energies was varied in order to show the fact that these states are at closest approach at MSW resonance. This does not correspond to the dynamic transit of the neutrino out of the Sun radially, where we instead would hold the production energy constant and vary the density that the neutrino transits on the way out to vacuum (perhaps we will our post code for that also eventually, the methods being identical). The case graphed is more applicable to understanding the possibility of a level jump, since the probability is greatest where the mass eigenstates are nearest one another. As we discuss in the article cited above, that probability also depends on the smoothness of the function describing the decrease of electron number density from solar core to surface, i.e., a discontuity increases the possibility of a jump (but in the case of the Sun this density decreases smoothly, more or less exponentially, so the probability of a jump is very low). We really cannot discuss the details of the physics underlying the code without using mathematical notation, so will prepare a pdf document with that discussion and post that here soon.
+In the graph, the production electron density was held constant and the values that the neutrino mass eigenstates would have a different production energies was varied in order to show the fact that these states are at closest approach at MSW resonance. This does not correspond to the dynamic transit of the neutrino out of the Sun radially, where we instead would hold the production energy constant and vary the density that the neutrino transits on the way out to vacuum (perhaps we will our post code for that also eventually, the methods being identical). The case graphed is more applicable to understanding the possibility of a level jump, since the probability is greatest where the mass eigenstates are nearest one another. As we discuss in the article cited above, that probability also depends on the smoothness of the function describing the decrease of electron number density from solar core to surface, i.e., a discontuity increases the possibility of a jump (but in the case of the Sun this density decreases smoothly, more or less exponentially, so the probability of a jump is very low).
 ## code to calculate nuclear reaction rate for 8B solar neutrinos
 ### Python file 201908085NACREcalc8BprotColRateCODEonly.py
 #### description and sample output
