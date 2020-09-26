@@ -67,7 +67,7 @@ The resulting arrays of survival probability (dependent variable) and neutrino p
 
 ### Python file 20190716ZhouNoSympySymHamiltCODEonlyZexactOurSolar.py
 
-See the **article** [Approach of eigenvalues in medium](https://github.com/AncientZygote/neutrinos/blob/master/20200527LZeigPath.pdf) for discussion of the relevant physics and the computer code provided.
+See the **article** [Approach of eigenvalues in medium](https://github.com/AncientZygote/neutrinos/blob/master/20200926LZeigPath.pdf) for discussion of the relevant physics and the computer code provided.
 
 See the **article** [Solar Neutrino Survival Probability Scan](https://github.com/AncientZygote/neutrinos/blob/master/20200508MSWallScan.pdf) for an incidental discussion of **level-jump probability** and hyperlink citations where available to physics papers and texts used, as well as some of our related work.
 
