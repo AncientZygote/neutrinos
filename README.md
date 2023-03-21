@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Since 2017 we have been studying physics related to solar neutrinos. With a background in engineering and a natural inclination to try to connect equations with real objects of experience, in our research of the subject we wrote various computer code segments in a `Python` `SciPy` `NumPy` `Matplotlib` environment to check correspondence with published experimental results (as well as to test our grasp of the material).
+Since 2017 we have been studying physics related to solar neutrinos. With a background in engineering and a natural inclination to try to connect equations with real objects of experience, in our research of the subject we wrote various computer code segments in a `Python` `SciPy` `NumPy` `Matplotlib` environment to check correspondence with published experimental results (as well as to test our grasp of the material). Note: Download any pdf files and read them on your computer or other device; GitHub no longer displays pdf documents in the browser. 
 
 Though we provide stand-alone `Python` scripts here, we developed in the `JupyterLab` context to facilitate writing math and text notes in `Markdown` and LaTeX in parallel with the `Python` code and code output or graphs (which displays within the notebook). We intend to make available that code, along with enough explanation to make it potentially useful, to any interested parties. We have benefited from the physics and computing articles of many and hope that our own work will also clear up particular questions or otherwise assist students of this subject matter.
 ## General requirements and computing environment
